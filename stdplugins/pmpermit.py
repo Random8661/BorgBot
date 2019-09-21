@@ -15,10 +15,10 @@ borg.storage.PM_WARNS = {}
 borg.storage.PREV_REPLY_MESSAGE = {}
 
 
-BAALAJI_TG_USER_BOT = "My Master isn't Online Right Now.."
-TG_COMPANION_USER_BOT = "Mc 2min ruk spam mat kar he isn't online.."
+BAALAJI_TG_USER_BOT = "Offline hai mera Master Gandu 2min Rukja."
+TG_COMPANION_USER_BOT = "Offline hai mera Master Gandu 2min Rukja."
 UNIBORG_USER_BOT_WARN_ZERO = "Offline hai mera Master Gandu 2min Rukja."
-UNIBORG_USER_BOT_NO_WARN = "Nikal Lavde pheli Fursat me Nikal. Thanks"
+UNIBORG_USER_BOT_NO_WARN = "Offline hai mera Master Gandu 2min Rukja."
 
 
 @borg.on(events.NewMessage(incoming=True, func=lambda e: e.is_private))
