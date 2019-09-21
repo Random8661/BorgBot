@@ -36,12 +36,12 @@ async def _(event):
         animation_chars = [
             "EvErYbOdY",
             "iZ",
-            "gAnGsTa",
+            "gAnGsTaR",
             "uNtiL",
             "i",
             "aRriVe",
             "😈",
-            "EvErYbOdY iZ gAnGsTa uNtiL i aRriVe 😈"
+            "EvErYbOdY iZ gAnGsTaR uNtiL i aRriVe 😈"
         ]
 
         for i in animation_ttl:
